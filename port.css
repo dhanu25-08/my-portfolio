@@ -1,0 +1,433 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*/
+
+/*  ------------------------------------------  navbar   ----------------------------------------*/
+.head-borders1 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 15px;
+}
+
+.head1 {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.back1 {
+    background-color: #191a1d;
+    background-size: cover;
+
+}
+
+.image2 {
+    height: 320px;
+    width: 300px;
+    margin-top: 240px;
+}
+
+.image1 {
+    height: 500px;
+    width: 550px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+
+}
+
+.main-heading2 {
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.main-heading1 {
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-top: 250px;
+}
+
+
+.span1 {
+    color: #4b6cc1;
+}
+
+.para1 {
+    font-family: "roboto";
+    font-size: 26px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.buttonbhai {
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #4b6cc1;
+    border-width: 0px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+}
+
+/* --------------------------------------- About Me & Skills ----------------------------------- */
+
+.background {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.facts {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #91b5dd;
+    text-decoration: underline;
+
+}
+
+
+
+.list-one {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #ffffff;
+    list-style: none;
+
+}
+
+.list-one span {
+    font-family: "Roboto";
+    color: #EC7063;
+    font-size: 18px;
+
+}
+
+.aboutme {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 12px;
+    margin-bottom: 23px;
+}
+
+#span_el {
+    font-style: italic;
+    color: white;
+}
+
+.image {
+    height: 425px;
+    width: 240px;
+    margin-bottom: 25px;
+    border-radius: 18px;
+}
+
+.image12 {
+    height: 450px;
+    width: 320px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+}
+
+.spanEl {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    color: #f9e8e8;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.background1 {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.backcard {
+    background-color: #323f4b;
+    border-radius: 11px;
+    padding: 15px;
+    text-align: center;
+    margin-right: 0px;
+    height: 160px;
+    width: 175px;
+
+}
+
+.backcard1 {
+    background-color: #323f4b;
+    border-radius: 11px;
+    padding: 15px;
+    text-align: center;
+    margin-right: 0px;
+    height: 140px;
+    width: 155px;
+
+}
+
+.card-image1 {
+    height: 65px;
+    width: 65px;
+    margin: 5px;
+}
+
+.card-image {
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+}
+
+.card-title {
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* ---------------------------------------------- projects section -------------------------------------------- */
+
+
+
+.back-container {
+    background-color: #3e4c59;
+    background-size: cover;
+}
+
+.portfolio {
+    font-family: "roboto";
+    font-size: 27px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.projects {
+    font-family: "roboto";
+    font-size: 47px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.card-container1 {
+    background-color: #323f4b;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-size: cover;
+
+
+}
+
+.images {
+    height: 210px;
+    width: 363px;
+    background-size: cover;
+
+}
+
+.web-design {
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.hotel-name {
+    font-family: "roboto";
+    font-size: 33px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.hotel-description {
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.more {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+/* ------------------------------------------------ service section ---------------------------------------- */
+
+.bg-bhai {
+    background-color: #52606d;
+    background-size: cover;
+}
+
+.services {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #cced00;
+
+}
+
+.what {
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.cards {
+    background-color: #323f4b;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 22px;
+    margin-bottom: 18px;
+}
+
+.images-bhai {
+    height: 50px;
+    width: 50px;
+}
+
+.sub-headings {
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 7px;
+}
+
+.des-bhai {
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+/* ------------------------------------------------------------ work done section ------------------------------------------- */
+.back-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height: 48vh;
+    padding-top: 35px;
+}
+
+.line {
+    border-color: #ffffff;
+    width: 50%;
+}
+
+.rupees {
+    font-family: 'roboto';
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.about {
+    font-family: 'roboto';
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+/* ------------------------------------------ testimonial section ------------------------------------- */
+.backer {
+    background-color: #1f2933;
+    background-size: cover;
+    padding: 33px;
+
+}
+
+.testi {
+    font-family: "roboto";
+    font-size: 21px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.our {
+    font-family: "roboto";
+    font-size: 38px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.carousel-card {
+    background-color: #323f4b;
+    background-size: cover;
+    border-radius: 2px;
+    padding: 25px;
+
+}
+
+.imager {
+    height: 100px;
+    width: 95px;
+    border-radius: 45px;
+}
+
+.descripter {
+    font-family: "roboto";
+    font-size: 19px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.by {
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+/* ------------------------------------------------------ footer section ------------------------------------------- */
+.say-background {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.images-anna {
+    height: 60px;
+    width: 55px;
+    border-radius: 80px;
+}
+
+.all-headings {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.all-about {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: #5a7184;
+}
+
+.say-background-2 {
+    background-color: #001c32;
+    background-size: cover;
+}
+
+.copyright {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
